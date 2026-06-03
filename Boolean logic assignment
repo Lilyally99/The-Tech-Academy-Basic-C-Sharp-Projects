@@ -1,0 +1,43 @@
+using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        // ── Question 1: Age ───────────────────────────────────────
+        // Ask for and store the applicant's age as an integer
+        Console.WriteLine("What is your age?");
+        int age = Convert.ToInt32(Console.ReadLine());
+
+        // ── Question 2: DUI ───────────────────────────────────────
+        // Ask for and store whether the applicant has a DUI as a boolean
+        // The applicant must type "true" or "false"
+        Console.WriteLine("Have you ever had a DUI?");
+        bool hasDUI = Convert.ToBoolean(Console.ReadLine());
+
+        // ── Question 3: Speeding Tickets ──────────────────────────
+        // Ask for and store the number of speeding tickets as an integer
+        Console.WriteLine("How many speeding tickets do you have?");
+        int speedingTickets = Convert.ToInt32(Console.ReadLine());
+
+        // ── Qualification Rules ───────────────────────────────────
+        // Rule 1: Applicant must be over 15 years old
+        bool ageQualified = age > 15;
+
+        // Rule 2: Applicant must not have any DUIs
+        // If hasDUI is false, they qualify — so we flip it with !
+        bool dUIQualified = !hasDUI;
+
+        // Rule 3: Applicant must not have more than 3 speeding tickets
+        bool ticketsQualified = speedingTickets <= 3;
+
+        // ── Final Result ──────────────────────────────────────────
+        // All three rules must be true for the applicant to qualify
+        // The && operator means ALL conditions must be met
+        bool qualified = ageQualified && dUIQualified && ticketsQualified;
+
+        // Print the final qualification result — true or false
+        Console.WriteLine("Qualified?");
+        Console.WriteLine(qualified);
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "The-Tech-Academy-Basic-C-Sharp-Projects/1.0.0": {
+        "runtime": {
+          "The-Tech-Academy-Basic-C-Sharp-Projects.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "The-Tech-Academy-Basic-C-Sharp-Projects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

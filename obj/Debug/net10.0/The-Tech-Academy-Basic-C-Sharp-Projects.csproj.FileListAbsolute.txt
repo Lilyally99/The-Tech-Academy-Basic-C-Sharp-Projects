@@ -1,0 +1,15 @@
+/Users/allenomoruyi/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/obj/Debug/net10.0/The-Tech-Academy-Basic-C-Sharp-Projects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/allenomoruyi/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/obj/Debug/net10.0/The-Tech-Academy-Basic-C-Sharp-Projects.AssemblyInfoInputs.cache
+/Users/allenomoruyi/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/obj/Debug/net10.0/The-Tech-Academy-Basic-C-Sharp-Projects.AssemblyInfo.cs
+/Users/allenomoruyi/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/obj/Debug/net10.0/The-Tech-Academy-Basic-C-Sharp-Projects.csproj.CoreCompileInputs.cache
+/Users/allenomoruyi/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/obj/Debug/net10.0/The-Tech-Academy-Basic-C-Sharp-Projects.sourcelink.json
+/Users/allenomoruyi/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/bin/Debug/net10.0/The-Tech-Academy-Basic-C-Sharp-Projects
+/Users/allenomoruyi/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/bin/Debug/net10.0/The-Tech-Academy-Basic-C-Sharp-Projects.deps.json
+/Users/allenomoruyi/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/bin/Debug/net10.0/The-Tech-Academy-Basic-C-Sharp-Projects.runtimeconfig.json
+/Users/allenomoruyi/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/bin/Debug/net10.0/The-Tech-Academy-Basic-C-Sharp-Projects.dll
+/Users/allenomoruyi/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/bin/Debug/net10.0/The-Tech-Academy-Basic-C-Sharp-Projects.pdb
+/Users/allenomoruyi/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/obj/Debug/net10.0/The-Tech-Academy-Basic-C-Sharp-Projects.dll
+/Users/allenomoruyi/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/obj/Debug/net10.0/refint/The-Tech-Academy-Basic-C-Sharp-Projects.dll
+/Users/allenomoruyi/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/obj/Debug/net10.0/The-Tech-Academy-Basic-C-Sharp-Projects.pdb
+/Users/allenomoruyi/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/obj/Debug/net10.0/The-Tech-Academy-Basic-C-Sharp-Projects.genruntimeconfig.cache
+/Users/allenomoruyi/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/obj/Debug/net10.0/ref/The-Tech-Academy-Basic-C-Sharp-Projects.dll
